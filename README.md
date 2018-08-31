@@ -13,17 +13,13 @@ Comment in r/smashingfour with
 ### Bot usage
 Create a credentials.py file that looks like this:
 
-` 
+```python
 client_id = 'reddit_app_client'
-
 client_secret = 'reddit_app_secret'
-
 username = 'your_reddit_username'
-
 password = 'your_reddit_pass'
-
 mashape_key = 'your_mashape_key'
-`
+```
 
 Then run
 
