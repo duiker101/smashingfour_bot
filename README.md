@@ -1,4 +1,4 @@
-#SmashingFour Reddit Bot
+# SmashingFour Reddit Bot
 
 Very simple bot that will reply to posts mentioning it with card stats.
 
