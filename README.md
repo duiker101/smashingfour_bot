@@ -1,4 +1,5 @@
 #SmashingFour Reddit Bot
+
 Very simple bot that will reply to posts mentioning it with card stats.
 
 Beware, the bot is currently rate-limited at 1 post each 10 minutes
