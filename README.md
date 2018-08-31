@@ -23,8 +23,7 @@ mashape_key = 'your_mashape_key'
 
 Then run
 
-`
+```
 pip install requirements.txt
-
 python bot.py
-`
+```
